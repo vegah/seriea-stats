@@ -9242,6 +9242,39 @@
     },
     {
       "round": 29,
+      "time": "18:00",
+      "date": "2024-06-02",
+      "stadium": "Stadio Gewiss Stadium",
+      "homeTeam": "Atalanta",
+      "awayTeam": "Fiorentina",
+      "resultText": "2-3",
+      "homeGoals": "2",
+      "awayGoals": "3",
+      "homeFormation": "3-4-2-1",
+      "awayFormation": "4-2-3-1",
+      "effectivePlayingTime": {
+        "total": {
+          "minutes": 55,
+          "seconds": 19,
+          "totalSeconds": 3319,
+          "stringRepresentation": "55:19"
+        },
+        "firstHalf": {
+          "minutes": 30,
+          "seconds": 47,
+          "totalSeconds": 1847,
+          "stringRepresentation": "30:47"
+        },
+        "secondHalf": {
+          "minutes": 24,
+          "seconds": 32,
+          "totalSeconds": 1472,
+          "stringRepresentation": "24:32"
+        }
+      }
+    },
+    {
+      "round": 29,
       "time": "20:45",
       "date": "2024-03-15",
       "stadium": "Stadio Carlo Castellani",
@@ -10495,6 +10528,39 @@
       }
     },
     {
+      "round": 32,
+      "time": "20:00",
+      "date": "2024-04-25",
+      "stadium": "Stadio Bluenergy Stadium - Stadio Friuli",
+      "homeTeam": "Udinese",
+      "awayTeam": "Roma",
+      "resultText": "1-2",
+      "homeGoals": "1",
+      "awayGoals": "2",
+      "homeFormation": "3-5-1-1",
+      "awayFormation": "3-4-2-1",
+      "effectivePlayingTime": {
+        "total": {
+          "minutes": 60,
+          "seconds": 48,
+          "totalSeconds": 3648,
+          "stringRepresentation": "60:48"
+        },
+        "firstHalf": {
+          "minutes": 32,
+          "seconds": 21,
+          "totalSeconds": 1941,
+          "stringRepresentation": "32:21"
+        },
+        "secondHalf": {
+          "minutes": 28,
+          "seconds": 27,
+          "totalSeconds": 1707,
+          "stringRepresentation": "28:27"
+        }
+      }
+    },
+    {
       "round": 33,
       "time": "20:45",
       "date": "2024-04-19",
@@ -11151,6 +11217,1326 @@
           "seconds": 5,
           "totalSeconds": 1505,
           "stringRepresentation": "25:5"
+        }
+      }
+    },
+    {
+      "round": 35,
+      "time": "12:30",
+      "date": "2024-05-05",
+      "stadium": "Stadio Unipol Domus",
+      "homeTeam": "Cagliari",
+      "awayTeam": "Lecce",
+      "resultText": "1-1",
+      "homeGoals": "1",
+      "awayGoals": "1",
+      "homeFormation": "4-4-2",
+      "awayFormation": "4-4-2",
+      "effectivePlayingTime": {
+        "total": {
+          "minutes": 43,
+          "seconds": 30,
+          "totalSeconds": 2610,
+          "stringRepresentation": "43:30"
+        },
+        "firstHalf": {
+          "minutes": 21,
+          "seconds": 1,
+          "totalSeconds": 1261,
+          "stringRepresentation": "21:1"
+        },
+        "secondHalf": {
+          "minutes": 22,
+          "seconds": 29,
+          "totalSeconds": 1349,
+          "stringRepresentation": "22:29"
+        }
+      }
+    },
+    {
+      "round": 35,
+      "time": "15:00",
+      "date": "2024-05-05",
+      "stadium": "Stadio Carlo Castellani",
+      "homeTeam": "Empoli",
+      "awayTeam": "Frosinone",
+      "resultText": "0-0",
+      "homeGoals": "0",
+      "awayGoals": "0",
+      "homeFormation": "3-4-2-1",
+      "awayFormation": "3-4-1-2",
+      "effectivePlayingTime": {
+        "total": {
+          "minutes": 42,
+          "seconds": 5,
+          "totalSeconds": 2525,
+          "stringRepresentation": "42:5"
+        },
+        "firstHalf": {
+          "minutes": 20,
+          "seconds": 56,
+          "totalSeconds": 1256,
+          "stringRepresentation": "20:56"
+        },
+        "secondHalf": {
+          "minutes": 21,
+          "seconds": 9,
+          "totalSeconds": 1269,
+          "stringRepresentation": "21:9"
+        }
+      }
+    },
+    {
+      "round": 35,
+      "time": "18:00",
+      "date": "2024-05-05",
+      "stadium": "Stadio Giuseppe Meazza",
+      "homeTeam": "Milan",
+      "awayTeam": "Genoa",
+      "resultText": "3-3",
+      "homeGoals": "3",
+      "awayGoals": "3",
+      "homeFormation": "4-2-3-1",
+      "awayFormation": "3-5-2",
+      "effectivePlayingTime": {
+        "total": {
+          "minutes": 57,
+          "seconds": 57,
+          "totalSeconds": 3477,
+          "stringRepresentation": "57:57"
+        },
+        "firstHalf": {
+          "minutes": 30,
+          "seconds": 10,
+          "totalSeconds": 1810,
+          "stringRepresentation": "30:10"
+        },
+        "secondHalf": {
+          "minutes": 27,
+          "seconds": 47,
+          "totalSeconds": 1667,
+          "stringRepresentation": "27:47"
+        }
+      }
+    },
+    {
+      "round": 35,
+      "time": "18:00",
+      "date": "2024-05-04",
+      "stadium": "Stadio U-power Stadium",
+      "homeTeam": "Monza",
+      "awayTeam": "Lazio",
+      "resultText": "2-2",
+      "homeGoals": "2",
+      "awayGoals": "2",
+      "homeFormation": "4-2-3-1",
+      "awayFormation": "3-4-2-1",
+      "effectivePlayingTime": {
+        "total": {
+          "minutes": 60,
+          "seconds": 46,
+          "totalSeconds": 3646,
+          "stringRepresentation": "60:46"
+        },
+        "firstHalf": {
+          "minutes": 30,
+          "seconds": 42,
+          "totalSeconds": 1842,
+          "stringRepresentation": "30:42"
+        },
+        "secondHalf": {
+          "minutes": 30,
+          "seconds": 4,
+          "totalSeconds": 1804,
+          "stringRepresentation": "30:4"
+        }
+      }
+    },
+    {
+      "round": 35,
+      "time": "20:45",
+      "date": "2024-05-05",
+      "stadium": "Stadio Olimpico",
+      "homeTeam": "Roma",
+      "awayTeam": "Juventus",
+      "resultText": "1-1",
+      "homeGoals": "1",
+      "awayGoals": "1",
+      "homeFormation": "4-3-2-1",
+      "awayFormation": "3-5-2",
+      "effectivePlayingTime": {
+        "total": {
+          "minutes": 55,
+          "seconds": 45,
+          "totalSeconds": 3345,
+          "stringRepresentation": "55:45"
+        },
+        "firstHalf": {
+          "minutes": 27,
+          "seconds": 36,
+          "totalSeconds": 1656,
+          "stringRepresentation": "27:36"
+        },
+        "secondHalf": {
+          "minutes": 28,
+          "seconds": 9,
+          "totalSeconds": 1689,
+          "stringRepresentation": "28:9"
+        }
+      }
+    },
+    {
+      "round": 35,
+      "time": "18:00",
+      "date": "2024-05-06",
+      "stadium": "Stadio Arechi",
+      "homeTeam": "Salernitana",
+      "awayTeam": "Atalanta",
+      "resultText": "1-2",
+      "homeGoals": "1",
+      "awayGoals": "2",
+      "homeFormation": "3-4-2-1",
+      "awayFormation": "3-4-2-1",
+      "effectivePlayingTime": {
+        "total": {
+          "minutes": 57,
+          "seconds": 27,
+          "totalSeconds": 3447,
+          "stringRepresentation": "57:27"
+        },
+        "firstHalf": {
+          "minutes": 31,
+          "seconds": 32,
+          "totalSeconds": 1892,
+          "stringRepresentation": "31:32"
+        },
+        "secondHalf": {
+          "minutes": 25,
+          "seconds": 55,
+          "totalSeconds": 1555,
+          "stringRepresentation": "25:55"
+        }
+      }
+    },
+    {
+      "round": 35,
+      "time": "20:45",
+      "date": "2024-05-04",
+      "stadium": "Stadio Mapei Stadium - Citta' Del Tricolore",
+      "homeTeam": "Sassuolo",
+      "awayTeam": "Inter",
+      "resultText": "1-0",
+      "homeGoals": "1",
+      "awayGoals": "0",
+      "homeFormation": "3-5-2",
+      "awayFormation": "3-5-2",
+      "effectivePlayingTime": {
+        "total": {
+          "minutes": 56,
+          "seconds": 22,
+          "totalSeconds": 3382,
+          "stringRepresentation": "56:22"
+        },
+        "firstHalf": {
+          "minutes": 29,
+          "seconds": 28,
+          "totalSeconds": 1768,
+          "stringRepresentation": "29:28"
+        },
+        "secondHalf": {
+          "minutes": 26,
+          "seconds": 54,
+          "totalSeconds": 1614,
+          "stringRepresentation": "26:54"
+        }
+      }
+    },
+    {
+      "round": 35,
+      "time": "20:45",
+      "date": "2024-05-03",
+      "stadium": "Stadio Olimpico Grande Torino",
+      "homeTeam": "Torino",
+      "awayTeam": "Bologna",
+      "resultText": "0-0",
+      "homeGoals": "0",
+      "awayGoals": "0",
+      "homeFormation": "3-4-1-2",
+      "awayFormation": "4-3-3",
+      "effectivePlayingTime": {
+        "total": {
+          "minutes": 58,
+          "seconds": 31,
+          "totalSeconds": 3511,
+          "stringRepresentation": "58:31"
+        },
+        "firstHalf": {
+          "minutes": 31,
+          "seconds": 48,
+          "totalSeconds": 1908,
+          "stringRepresentation": "31:48"
+        },
+        "secondHalf": {
+          "minutes": 26,
+          "seconds": 43,
+          "totalSeconds": 1603,
+          "stringRepresentation": "26:43"
+        }
+      }
+    },
+    {
+      "round": 35,
+      "time": "20:45",
+      "date": "2024-05-06",
+      "stadium": "Stadio Bluenergy Stadium - Stadio Friuli",
+      "homeTeam": "Udinese",
+      "awayTeam": "Napoli",
+      "resultText": "1-1",
+      "homeGoals": "1",
+      "awayGoals": "1",
+      "homeFormation": "3-4-2-1",
+      "awayFormation": "4-3-3",
+      "effectivePlayingTime": {
+        "total": {
+          "minutes": 50,
+          "seconds": 45,
+          "totalSeconds": 3045,
+          "stringRepresentation": "50:45"
+        },
+        "firstHalf": {
+          "minutes": 25,
+          "seconds": 33,
+          "totalSeconds": 1533,
+          "stringRepresentation": "25:33"
+        },
+        "secondHalf": {
+          "minutes": 25,
+          "seconds": 12,
+          "totalSeconds": 1512,
+          "stringRepresentation": "25:12"
+        }
+      }
+    },
+    {
+      "round": 35,
+      "time": "15:00",
+      "date": "2024-05-05",
+      "stadium": "Stadio Marcantonio Bentegodi",
+      "homeTeam": "Hellas Verona",
+      "awayTeam": "Fiorentina",
+      "resultText": "2-1",
+      "homeGoals": "2",
+      "awayGoals": "1",
+      "homeFormation": "4-2-3-1",
+      "awayFormation": "4-2-3-1",
+      "effectivePlayingTime": {
+        "total": {
+          "minutes": 52,
+          "seconds": 25,
+          "totalSeconds": 3145,
+          "stringRepresentation": "52:25"
+        },
+        "firstHalf": {
+          "minutes": 27,
+          "seconds": 20,
+          "totalSeconds": 1640,
+          "stringRepresentation": "27:20"
+        },
+        "secondHalf": {
+          "minutes": 25,
+          "seconds": 5,
+          "totalSeconds": 1505,
+          "stringRepresentation": "25:5"
+        }
+      }
+    },
+    {
+      "round": 36,
+      "time": "20:45",
+      "date": "2024-05-12",
+      "stadium": "Stadio Gewiss Stadium",
+      "homeTeam": "Atalanta",
+      "awayTeam": "Roma",
+      "resultText": "2-1",
+      "homeGoals": "2",
+      "awayGoals": "1",
+      "homeFormation": "3-4-2-1",
+      "awayFormation": "4-3-3",
+      "effectivePlayingTime": {
+        "total": {
+          "minutes": 56,
+          "seconds": 50,
+          "totalSeconds": 3410,
+          "stringRepresentation": "56:50"
+        },
+        "firstHalf": {
+          "minutes": 29,
+          "seconds": 40,
+          "totalSeconds": 1780,
+          "stringRepresentation": "29:40"
+        },
+        "secondHalf": {
+          "minutes": 27,
+          "seconds": 10,
+          "totalSeconds": 1630,
+          "stringRepresentation": "27:10"
+        }
+      }
+    },
+    {
+      "round": 36,
+      "time": "20:45",
+      "date": "2024-05-13",
+      "stadium": "Stadio Artemio Franchi",
+      "homeTeam": "Fiorentina",
+      "awayTeam": "Monza",
+      "resultText": "2-1",
+      "homeGoals": "2",
+      "awayGoals": "1",
+      "homeFormation": "4-2-3-1",
+      "awayFormation": "4-2-3-1",
+      "effectivePlayingTime": {
+        "total": {
+          "minutes": 58,
+          "seconds": 10,
+          "totalSeconds": 3490,
+          "stringRepresentation": "58:10"
+        },
+        "firstHalf": {
+          "minutes": 28,
+          "seconds": 33,
+          "totalSeconds": 1713,
+          "stringRepresentation": "28:33"
+        },
+        "secondHalf": {
+          "minutes": 29,
+          "seconds": 37,
+          "totalSeconds": 1777,
+          "stringRepresentation": "29:37"
+        }
+      }
+    },
+    {
+      "round": 36,
+      "time": "20:45",
+      "date": "2024-05-10",
+      "stadium": "Stadio Benito Stirpe",
+      "homeTeam": "Frosinone",
+      "awayTeam": "Inter",
+      "resultText": "0-5",
+      "homeGoals": "0",
+      "awayGoals": "5",
+      "homeFormation": "3-4-2-1",
+      "awayFormation": "3-5-2",
+      "effectivePlayingTime": {
+        "total": {
+          "minutes": 60,
+          "seconds": 4,
+          "totalSeconds": 3604,
+          "stringRepresentation": "60:4"
+        },
+        "firstHalf": {
+          "minutes": 33,
+          "seconds": 14,
+          "totalSeconds": 1994,
+          "stringRepresentation": "33:14"
+        },
+        "secondHalf": {
+          "minutes": 26,
+          "seconds": 50,
+          "totalSeconds": 1610,
+          "stringRepresentation": "26:50"
+        }
+      }
+    },
+    {
+      "round": 36,
+      "time": "15:00",
+      "date": "2024-05-12",
+      "stadium": "Stadio Luigi Ferraris",
+      "homeTeam": "Genoa",
+      "awayTeam": "Sassuolo",
+      "resultText": "2-1",
+      "homeGoals": "2",
+      "awayGoals": "1",
+      "homeFormation": "3-5-2",
+      "awayFormation": "3-5-2",
+      "effectivePlayingTime": {
+        "total": {
+          "minutes": 56,
+          "seconds": 15,
+          "totalSeconds": 3375,
+          "stringRepresentation": "56:15"
+        },
+        "firstHalf": {
+          "minutes": 26,
+          "seconds": 43,
+          "totalSeconds": 1603,
+          "stringRepresentation": "26:43"
+        },
+        "secondHalf": {
+          "minutes": 29,
+          "seconds": 32,
+          "totalSeconds": 1772,
+          "stringRepresentation": "29:32"
+        }
+      }
+    },
+    {
+      "round": 36,
+      "time": "18:00",
+      "date": "2024-05-12",
+      "stadium": "Stadio Allianz Stadium",
+      "homeTeam": "Juventus",
+      "awayTeam": "Salernitana",
+      "resultText": "1-1",
+      "homeGoals": "1",
+      "awayGoals": "1",
+      "homeFormation": "3-5-2",
+      "awayFormation": "3-4-2-1",
+      "effectivePlayingTime": {
+        "total": {
+          "minutes": 50,
+          "seconds": 9,
+          "totalSeconds": 3009,
+          "stringRepresentation": "50:9"
+        },
+        "firstHalf": {
+          "minutes": 25,
+          "seconds": 23,
+          "totalSeconds": 1523,
+          "stringRepresentation": "25:23"
+        },
+        "secondHalf": {
+          "minutes": 24,
+          "seconds": 46,
+          "totalSeconds": 1486,
+          "stringRepresentation": "24:46"
+        }
+      }
+    },
+    {
+      "round": 36,
+      "time": "12:30",
+      "date": "2024-05-12",
+      "stadium": "Stadio Olimpico",
+      "homeTeam": "Lazio",
+      "awayTeam": "Empoli",
+      "resultText": "2-0",
+      "homeGoals": "2",
+      "awayGoals": "0",
+      "homeFormation": "3-4-2-1",
+      "awayFormation": "3-5-2",
+      "effectivePlayingTime": {
+        "total": {
+          "minutes": 50,
+          "seconds": 11,
+          "totalSeconds": 3011,
+          "stringRepresentation": "50:11"
+        },
+        "firstHalf": {
+          "minutes": 27,
+          "seconds": 22,
+          "totalSeconds": 1642,
+          "stringRepresentation": "27:22"
+        },
+        "secondHalf": {
+          "minutes": 22,
+          "seconds": 49,
+          "totalSeconds": 1369,
+          "stringRepresentation": "22:49"
+        }
+      }
+    },
+    {
+      "round": 36,
+      "time": "18:30",
+      "date": "2024-05-13",
+      "stadium": "Stadio Ettore Giardiniero - Via Del Mare",
+      "homeTeam": "Lecce",
+      "awayTeam": "Udinese",
+      "resultText": "0-2",
+      "homeGoals": "0",
+      "awayGoals": "2",
+      "homeFormation": "4-2-3-1",
+      "awayFormation": "3-4-2-1",
+      "effectivePlayingTime": {
+        "total": {
+          "minutes": 51,
+          "seconds": 54,
+          "totalSeconds": 3114,
+          "stringRepresentation": "51:54"
+        },
+        "firstHalf": {
+          "minutes": 27,
+          "seconds": 3,
+          "totalSeconds": 1623,
+          "stringRepresentation": "27:3"
+        },
+        "secondHalf": {
+          "minutes": 24,
+          "seconds": 51,
+          "totalSeconds": 1491,
+          "stringRepresentation": "24:51"
+        }
+      }
+    },
+    {
+      "round": 36,
+      "time": "20:45",
+      "date": "2024-05-11",
+      "stadium": "Stadio Giuseppe Meazza",
+      "homeTeam": "Milan",
+      "awayTeam": "Cagliari",
+      "resultText": "5-1",
+      "homeGoals": "5",
+      "awayGoals": "1",
+      "homeFormation": "4-3-3",
+      "awayFormation": "3-5-2",
+      "effectivePlayingTime": {
+        "total": {
+          "minutes": 60,
+          "seconds": 14,
+          "totalSeconds": 3614,
+          "stringRepresentation": "60:14"
+        },
+        "firstHalf": {
+          "minutes": 32,
+          "seconds": 0,
+          "totalSeconds": 1920,
+          "stringRepresentation": "32:0"
+        },
+        "secondHalf": {
+          "minutes": 28,
+          "seconds": 14,
+          "totalSeconds": 1694,
+          "stringRepresentation": "28:14"
+        }
+      }
+    },
+    {
+      "round": 36,
+      "time": "18:00",
+      "date": "2024-05-11",
+      "stadium": "Stadio Diego Armando Maradona",
+      "homeTeam": "Napoli",
+      "awayTeam": "Bologna",
+      "resultText": "0-2",
+      "homeGoals": "0",
+      "awayGoals": "2",
+      "homeFormation": "4-3-3",
+      "awayFormation": "4-3-3",
+      "effectivePlayingTime": {
+        "total": {
+          "minutes": 55,
+          "seconds": 41,
+          "totalSeconds": 3341,
+          "stringRepresentation": "55:41"
+        },
+        "firstHalf": {
+          "minutes": 27,
+          "seconds": 54,
+          "totalSeconds": 1674,
+          "stringRepresentation": "27:54"
+        },
+        "secondHalf": {
+          "minutes": 27,
+          "seconds": 47,
+          "totalSeconds": 1667,
+          "stringRepresentation": "27:47"
+        }
+      }
+    },
+    {
+      "round": 36,
+      "time": "15:00",
+      "date": "2024-05-12",
+      "stadium": "Stadio Marcantonio Bentegodi",
+      "homeTeam": "Hellas Verona",
+      "awayTeam": "Torino",
+      "resultText": "1-2",
+      "homeGoals": "1",
+      "awayGoals": "2",
+      "homeFormation": "4-2-3-1",
+      "awayFormation": "3-4-1-2",
+      "effectivePlayingTime": {
+        "total": {
+          "minutes": 50,
+          "seconds": 21,
+          "totalSeconds": 3021,
+          "stringRepresentation": "50:21"
+        },
+        "firstHalf": {
+          "minutes": 26,
+          "seconds": 25,
+          "totalSeconds": 1585,
+          "stringRepresentation": "26:25"
+        },
+        "secondHalf": {
+          "minutes": 23,
+          "seconds": 56,
+          "totalSeconds": 1436,
+          "stringRepresentation": "23:56"
+        }
+      }
+    },
+    {
+      "round": 37,
+      "time": "20:45",
+      "date": "2024-05-20",
+      "stadium": "Stadio Renato Dall'ara",
+      "homeTeam": "Bologna",
+      "awayTeam": "Juventus",
+      "resultText": "3-3",
+      "homeGoals": "3",
+      "awayGoals": "3",
+      "homeFormation": "4-1-4-1",
+      "awayFormation": "3-5-2",
+      "effectivePlayingTime": {
+        "total": {
+          "minutes": 53,
+          "seconds": 52,
+          "totalSeconds": 3232,
+          "stringRepresentation": "53:52"
+        },
+        "firstHalf": {
+          "minutes": 27,
+          "seconds": 51,
+          "totalSeconds": 1671,
+          "stringRepresentation": "27:51"
+        },
+        "secondHalf": {
+          "minutes": 26,
+          "seconds": 1,
+          "totalSeconds": 1561,
+          "stringRepresentation": "26:1"
+        }
+      }
+    },
+    {
+      "round": 37,
+      "time": "20:45",
+      "date": "2024-05-17",
+      "stadium": "Stadio Artemio Franchi",
+      "homeTeam": "Fiorentina",
+      "awayTeam": "Napoli",
+      "resultText": "2-2",
+      "homeGoals": "2",
+      "awayGoals": "2",
+      "homeFormation": "4-2-3-1",
+      "awayFormation": "4-3-3",
+      "effectivePlayingTime": {
+        "total": {
+          "minutes": 49,
+          "seconds": 59,
+          "totalSeconds": 2999,
+          "stringRepresentation": "49:59"
+        },
+        "firstHalf": {
+          "minutes": 28,
+          "seconds": 2,
+          "totalSeconds": 1682,
+          "stringRepresentation": "28:2"
+        },
+        "secondHalf": {
+          "minutes": 21,
+          "seconds": 57,
+          "totalSeconds": 1317,
+          "stringRepresentation": "21:57"
+        }
+      }
+    },
+    {
+      "round": 37,
+      "time": "18:00",
+      "date": "2024-05-19",
+      "stadium": "Stadio Giuseppe Meazza",
+      "homeTeam": "Inter",
+      "awayTeam": "Lazio",
+      "resultText": "1-1",
+      "homeGoals": "1",
+      "awayGoals": "1",
+      "homeFormation": "3-5-2",
+      "awayFormation": "3-4-2-1",
+      "effectivePlayingTime": {
+        "total": {
+          "minutes": 57,
+          "seconds": 57,
+          "totalSeconds": 3477,
+          "stringRepresentation": "57:57"
+        },
+        "firstHalf": {
+          "minutes": 28,
+          "seconds": 33,
+          "totalSeconds": 1713,
+          "stringRepresentation": "28:33"
+        },
+        "secondHalf": {
+          "minutes": 29,
+          "seconds": 24,
+          "totalSeconds": 1764,
+          "stringRepresentation": "29:24"
+        }
+      }
+    },
+    {
+      "round": 37,
+      "time": "18:00",
+      "date": "2024-05-18",
+      "stadium": "Stadio Ettore Giardiniero - Via Del Mare",
+      "homeTeam": "Lecce",
+      "awayTeam": "Atalanta",
+      "resultText": "0-2",
+      "homeGoals": "0",
+      "awayGoals": "2",
+      "homeFormation": "4-4-2",
+      "awayFormation": "3-4-1-2",
+      "effectivePlayingTime": {
+        "total": {
+          "minutes": 60,
+          "seconds": 31,
+          "totalSeconds": 3631,
+          "stringRepresentation": "60:31"
+        },
+        "firstHalf": {
+          "minutes": 30,
+          "seconds": 55,
+          "totalSeconds": 1855,
+          "stringRepresentation": "30:55"
+        },
+        "secondHalf": {
+          "minutes": 29,
+          "seconds": 36,
+          "totalSeconds": 1776,
+          "stringRepresentation": "29:36"
+        }
+      }
+    },
+    {
+      "round": 37,
+      "time": "15:00",
+      "date": "2024-05-19",
+      "stadium": "Stadio U-power Stadium",
+      "homeTeam": "Monza",
+      "awayTeam": "Frosinone",
+      "resultText": "0-1",
+      "homeGoals": "0",
+      "awayGoals": "1",
+      "homeFormation": "4-2-3-1",
+      "awayFormation": "3-4-2-1",
+      "effectivePlayingTime": {
+        "total": {
+          "minutes": 56,
+          "seconds": 44,
+          "totalSeconds": 3404,
+          "stringRepresentation": "56:44"
+        },
+        "firstHalf": {
+          "minutes": 30,
+          "seconds": 35,
+          "totalSeconds": 1835,
+          "stringRepresentation": "30:35"
+        },
+        "secondHalf": {
+          "minutes": 26,
+          "seconds": 9,
+          "totalSeconds": 1569,
+          "stringRepresentation": "26:9"
+        }
+      }
+    },
+    {
+      "round": 37,
+      "time": "20:45",
+      "date": "2024-05-19",
+      "stadium": "Stadio Olimpico",
+      "homeTeam": "Roma",
+      "awayTeam": "Genoa",
+      "resultText": "1-0",
+      "homeGoals": "1",
+      "awayGoals": "0",
+      "homeFormation": "4-3-2-1",
+      "awayFormation": "3-5-2",
+      "effectivePlayingTime": {
+        "total": {
+          "minutes": 57,
+          "seconds": 55,
+          "totalSeconds": 3475,
+          "stringRepresentation": "57:55"
+        },
+        "firstHalf": {
+          "minutes": 28,
+          "seconds": 20,
+          "totalSeconds": 1700,
+          "stringRepresentation": "28:20"
+        },
+        "secondHalf": {
+          "minutes": 29,
+          "seconds": 35,
+          "totalSeconds": 1775,
+          "stringRepresentation": "29:35"
+        }
+      }
+    },
+    {
+      "round": 37,
+      "time": "18:30",
+      "date": "2024-05-20",
+      "stadium": "Stadio Arechi",
+      "homeTeam": "Salernitana",
+      "awayTeam": "Hellas Verona",
+      "resultText": "1-2",
+      "homeGoals": "1",
+      "awayGoals": "2",
+      "homeFormation": "3-4-2-1",
+      "awayFormation": "4-2-3-1",
+      "effectivePlayingTime": {
+        "total": {
+          "minutes": 47,
+          "seconds": 38,
+          "totalSeconds": 2858,
+          "stringRepresentation": "47:38"
+        },
+        "firstHalf": {
+          "minutes": 20,
+          "seconds": 9,
+          "totalSeconds": 1209,
+          "stringRepresentation": "20:9"
+        },
+        "secondHalf": {
+          "minutes": 27,
+          "seconds": 29,
+          "totalSeconds": 1649,
+          "stringRepresentation": "27:29"
+        }
+      }
+    },
+    {
+      "round": 37,
+      "time": "12:30",
+      "date": "2024-05-19",
+      "stadium": "Stadio Mapei Stadium - Citta' Del Tricolore",
+      "homeTeam": "Sassuolo",
+      "awayTeam": "Cagliari",
+      "resultText": "0-2",
+      "homeGoals": "0",
+      "awayGoals": "2",
+      "homeFormation": "3-5-2",
+      "awayFormation": "4-3-1-2",
+      "effectivePlayingTime": {
+        "total": {
+          "minutes": 46,
+          "seconds": 30,
+          "totalSeconds": 2790,
+          "stringRepresentation": "46:30"
+        },
+        "firstHalf": {
+          "minutes": 27,
+          "seconds": 48,
+          "totalSeconds": 1668,
+          "stringRepresentation": "27:48"
+        },
+        "secondHalf": {
+          "minutes": 18,
+          "seconds": 42,
+          "totalSeconds": 1122,
+          "stringRepresentation": "18:42"
+        }
+      }
+    },
+    {
+      "round": 37,
+      "time": "20:45",
+      "date": "2024-05-18",
+      "stadium": "Stadio Olimpico Grande Torino",
+      "homeTeam": "Torino",
+      "awayTeam": "Milan",
+      "resultText": "3-1",
+      "homeGoals": "3",
+      "awayGoals": "1",
+      "homeFormation": "3-4-1-2",
+      "awayFormation": "4-3-3",
+      "effectivePlayingTime": {
+        "total": {
+          "minutes": 51,
+          "seconds": 34,
+          "totalSeconds": 3094,
+          "stringRepresentation": "51:34"
+        },
+        "firstHalf": {
+          "minutes": 29,
+          "seconds": 16,
+          "totalSeconds": 1756,
+          "stringRepresentation": "29:16"
+        },
+        "secondHalf": {
+          "minutes": 22,
+          "seconds": 18,
+          "totalSeconds": 1338,
+          "stringRepresentation": "22:18"
+        }
+      }
+    },
+    {
+      "round": 37,
+      "time": "15:00",
+      "date": "2024-05-19",
+      "stadium": "Stadio Bluenergy Stadium - Stadio Friuli",
+      "homeTeam": "Udinese",
+      "awayTeam": "Empoli",
+      "resultText": "1-1",
+      "homeGoals": "1",
+      "awayGoals": "1",
+      "homeFormation": "3-4-2-1",
+      "awayFormation": "3-5-2",
+      "effectivePlayingTime": {
+        "total": {
+          "minutes": 43,
+          "seconds": 50,
+          "totalSeconds": 2630,
+          "stringRepresentation": "43:50"
+        },
+        "firstHalf": {
+          "minutes": 20,
+          "seconds": 38,
+          "totalSeconds": 1238,
+          "stringRepresentation": "20:38"
+        },
+        "secondHalf": {
+          "minutes": 23,
+          "seconds": 12,
+          "totalSeconds": 1392,
+          "stringRepresentation": "23:12"
+        }
+      }
+    },
+    {
+      "round": 38,
+      "time": "18:00",
+      "date": "2024-05-26",
+      "stadium": "Stadio Gewiss Stadium",
+      "homeTeam": "Atalanta",
+      "awayTeam": "Torino",
+      "resultText": "3-0",
+      "homeGoals": "3",
+      "awayGoals": "0",
+      "homeFormation": "3-4-2-1",
+      "awayFormation": "3-4-1-2",
+      "effectivePlayingTime": {
+        "total": {
+          "minutes": 57,
+          "seconds": 3,
+          "totalSeconds": 3423,
+          "stringRepresentation": "57:3"
+        },
+        "firstHalf": {
+          "minutes": 29,
+          "seconds": 18,
+          "totalSeconds": 1758,
+          "stringRepresentation": "29:18"
+        },
+        "secondHalf": {
+          "minutes": 27,
+          "seconds": 45,
+          "totalSeconds": 1665,
+          "stringRepresentation": "27:45"
+        }
+      }
+    },
+    {
+      "round": 38,
+      "time": "20:45",
+      "date": "2024-05-23",
+      "stadium": "Stadio Unipol Domus",
+      "homeTeam": "Cagliari",
+      "awayTeam": "Fiorentina",
+      "resultText": "2-3",
+      "homeGoals": "2",
+      "awayGoals": "3",
+      "homeFormation": "4-2-3-1",
+      "awayFormation": "4-2-3-1",
+      "effectivePlayingTime": {
+        "total": {
+          "minutes": 46,
+          "seconds": 55,
+          "totalSeconds": 2815,
+          "stringRepresentation": "46:55"
+        },
+        "firstHalf": {
+          "minutes": 25,
+          "seconds": 7,
+          "totalSeconds": 1507,
+          "stringRepresentation": "25:7"
+        },
+        "secondHalf": {
+          "minutes": 21,
+          "seconds": 48,
+          "totalSeconds": 1308,
+          "stringRepresentation": "21:48"
+        }
+      }
+    },
+    {
+      "round": 38,
+      "time": "20:45",
+      "date": "2024-05-26",
+      "stadium": "Stadio Carlo Castellani",
+      "homeTeam": "Empoli",
+      "awayTeam": "Roma",
+      "resultText": "2-1",
+      "homeGoals": "2",
+      "awayGoals": "1",
+      "homeFormation": "3-5-2",
+      "awayFormation": "4-3-3",
+      "effectivePlayingTime": {
+        "total": {
+          "minutes": 55,
+          "seconds": 35,
+          "totalSeconds": 3335,
+          "stringRepresentation": "55:35"
+        },
+        "firstHalf": {
+          "minutes": 27,
+          "seconds": 31,
+          "totalSeconds": 1651,
+          "stringRepresentation": "27:31"
+        },
+        "secondHalf": {
+          "minutes": 28,
+          "seconds": 4,
+          "totalSeconds": 1684,
+          "stringRepresentation": "28:4"
+        }
+      }
+    },
+    {
+      "round": 38,
+      "time": "20:45",
+      "date": "2024-05-26",
+      "stadium": "Stadio Benito Stirpe",
+      "homeTeam": "Frosinone",
+      "awayTeam": "Udinese",
+      "resultText": "0-1",
+      "homeGoals": "0",
+      "awayGoals": "1",
+      "homeFormation": "3-4-2-1",
+      "awayFormation": "3-5-2",
+      "effectivePlayingTime": {
+        "total": {
+          "minutes": 45,
+          "seconds": 0,
+          "totalSeconds": 2700,
+          "stringRepresentation": "45:0"
+        },
+        "firstHalf": {
+          "minutes": 24,
+          "seconds": 34,
+          "totalSeconds": 1474,
+          "stringRepresentation": "24:34"
+        },
+        "secondHalf": {
+          "minutes": 20,
+          "seconds": 26,
+          "totalSeconds": 1226,
+          "stringRepresentation": "20:26"
+        }
+      }
+    },
+    {
+      "round": 38,
+      "time": "20:45",
+      "date": "2024-05-24",
+      "stadium": "Stadio Luigi Ferraris",
+      "homeTeam": "Genoa",
+      "awayTeam": "Bologna",
+      "resultText": "2-0",
+      "homeGoals": "2",
+      "awayGoals": "0",
+      "homeFormation": "3-5-2",
+      "awayFormation": "4-1-4-1",
+      "effectivePlayingTime": {
+        "total": {
+          "minutes": 51,
+          "seconds": 39,
+          "totalSeconds": 3099,
+          "stringRepresentation": "51:39"
+        },
+        "firstHalf": {
+          "minutes": 24,
+          "seconds": 42,
+          "totalSeconds": 1482,
+          "stringRepresentation": "24:42"
+        },
+        "secondHalf": {
+          "minutes": 26,
+          "seconds": 57,
+          "totalSeconds": 1617,
+          "stringRepresentation": "26:57"
+        }
+      }
+    },
+    {
+      "round": 38,
+      "time": "18:00",
+      "date": "2024-05-25",
+      "stadium": "Stadio Allianz Stadium",
+      "homeTeam": "Juventus",
+      "awayTeam": "Monza",
+      "resultText": "2-0",
+      "homeGoals": "2",
+      "awayGoals": "0",
+      "homeFormation": "3-4-3",
+      "awayFormation": "3-4-2-1",
+      "effectivePlayingTime": {
+        "total": {
+          "minutes": 56,
+          "seconds": 1,
+          "totalSeconds": 3361,
+          "stringRepresentation": "56:1"
+        },
+        "firstHalf": {
+          "minutes": 30,
+          "seconds": 14,
+          "totalSeconds": 1814,
+          "stringRepresentation": "30:14"
+        },
+        "secondHalf": {
+          "minutes": 25,
+          "seconds": 47,
+          "totalSeconds": 1547,
+          "stringRepresentation": "25:47"
+        }
+      }
+    },
+    {
+      "round": 38,
+      "time": "20:45",
+      "date": "2024-05-26",
+      "stadium": "Stadio Olimpico",
+      "homeTeam": "Lazio",
+      "awayTeam": "Sassuolo",
+      "resultText": "1-1",
+      "homeGoals": "1",
+      "awayGoals": "1",
+      "homeFormation": "3-4-2-1",
+      "awayFormation": "3-5-2",
+      "effectivePlayingTime": {
+        "total": {
+          "minutes": 59,
+          "seconds": 18,
+          "totalSeconds": 3558,
+          "stringRepresentation": "59:18"
+        },
+        "firstHalf": {
+          "minutes": 30,
+          "seconds": 51,
+          "totalSeconds": 1851,
+          "stringRepresentation": "30:51"
+        },
+        "secondHalf": {
+          "minutes": 28,
+          "seconds": 27,
+          "totalSeconds": 1707,
+          "stringRepresentation": "28:27"
+        }
+      }
+    },
+    {
+      "round": 38,
+      "time": "20:45",
+      "date": "2024-05-25",
+      "stadium": "Stadio Giuseppe Meazza",
+      "homeTeam": "Milan",
+      "awayTeam": "Salernitana",
+      "resultText": "3-3",
+      "homeGoals": "3",
+      "awayGoals": "3",
+      "homeFormation": "4-2-3-1",
+      "awayFormation": "3-4-2-1",
+      "effectivePlayingTime": {
+        "total": {
+          "minutes": 51,
+          "seconds": 1,
+          "totalSeconds": 3061,
+          "stringRepresentation": "51:1"
+        },
+        "firstHalf": {
+          "minutes": 28,
+          "seconds": 11,
+          "totalSeconds": 1691,
+          "stringRepresentation": "28:11"
+        },
+        "secondHalf": {
+          "minutes": 22,
+          "seconds": 50,
+          "totalSeconds": 1370,
+          "stringRepresentation": "22:50"
+        }
+      }
+    },
+    {
+      "round": 38,
+      "time": "18:00",
+      "date": "2024-05-26",
+      "stadium": "Stadio Diego Armando Maradona",
+      "homeTeam": "Napoli",
+      "awayTeam": "Lecce",
+      "resultText": "0-0",
+      "homeGoals": "0",
+      "awayGoals": "0",
+      "homeFormation": "4-3-3",
+      "awayFormation": "4-3-3",
+      "effectivePlayingTime": {
+        "total": {
+          "minutes": 61,
+          "seconds": 57,
+          "totalSeconds": 3717,
+          "stringRepresentation": "61:57"
+        },
+        "firstHalf": {
+          "minutes": 29,
+          "seconds": 45,
+          "totalSeconds": 1785,
+          "stringRepresentation": "29:45"
+        },
+        "secondHalf": {
+          "minutes": 32,
+          "seconds": 12,
+          "totalSeconds": 1932,
+          "stringRepresentation": "32:12"
+        }
+      }
+    },
+    {
+      "round": 38,
+      "time": "20:45",
+      "date": "2024-05-26",
+      "stadium": "Stadio Marcantonio Bentegodi",
+      "homeTeam": "Hellas Verona",
+      "awayTeam": "Inter",
+      "resultText": "2-2",
+      "homeGoals": "2",
+      "awayGoals": "2",
+      "homeFormation": "4-2-3-1",
+      "awayFormation": "3-5-2",
+      "effectivePlayingTime": {
+        "total": {
+          "minutes": 56,
+          "seconds": 36,
+          "totalSeconds": 3396,
+          "stringRepresentation": "56:36"
+        },
+        "firstHalf": {
+          "minutes": 28,
+          "seconds": 52,
+          "totalSeconds": 1732,
+          "stringRepresentation": "28:52"
+        },
+        "secondHalf": {
+          "minutes": 27,
+          "seconds": 44,
+          "totalSeconds": 1664,
+          "stringRepresentation": "27:44"
         }
       }
     }
